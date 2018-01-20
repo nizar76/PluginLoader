@@ -1,0 +1,6 @@
+C:\Users\nizar.NCH0\Documents\Visual Studio 2017\Projects\PluginLoader\ConsoleApp\bin\Release\ConsoleApp.exe.config
+C:\Users\nizar.NCH0\Documents\Visual Studio 2017\Projects\PluginLoader\ConsoleApp\bin\Release\ConsoleApp.exe
+C:\Users\nizar.NCH0\Documents\Visual Studio 2017\Projects\PluginLoader\ConsoleApp\bin\Release\ConsoleApp.pdb
+C:\Users\nizar.NCH0\Documents\Visual Studio 2017\Projects\PluginLoader\ConsoleApp\obj\Release\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\nizar.NCH0\Documents\Visual Studio 2017\Projects\PluginLoader\ConsoleApp\obj\Release\ConsoleApp.exe
+C:\Users\nizar.NCH0\Documents\Visual Studio 2017\Projects\PluginLoader\ConsoleApp\obj\Release\ConsoleApp.pdb

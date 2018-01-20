@@ -1,0 +1,7 @@
+C:\Users\nizar.NCH0\Documents\Visual Studio 2017\Projects\Test\PluginLoaderTest\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\nizar.NCH0\Documents\Visual Studio 2017\Projects\Test\PluginLoaderTest\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\nizar.NCH0\Documents\Visual Studio 2017\Projects\Test\PluginLoaderTest\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\nizar.NCH0\Documents\Visual Studio 2017\Projects\Test\PluginLoaderTest\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\nizar.NCH0\Documents\Visual Studio 2017\Projects\Test\PluginLoaderTest\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\nizar.NCH0\Documents\Visual Studio 2017\Projects\Test\PluginLoaderTest\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\nizar.NCH0\Documents\Visual Studio 2017\Projects\Test\PluginLoaderTest\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
